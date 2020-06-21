@@ -9,3 +9,4 @@ Description: A package for analyzing large ChIP-seq data sets
 License: MIT
 LazyData: TRUE
 RoxygenNote: 5.0.1
+Depends: R (>= 3.0.1)
