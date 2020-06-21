@@ -1,0 +1,11 @@
+Package: TFComp
+Type: Package
+Title: A package for analyzing large ChIP-seq data sets
+Version: 0.1
+Date: 2020-06-21
+Author: Ryne Ramaker <ryneramaker@gmail.com>
+Maintainer: Ryne Ramaker <ryneramaker@gmail.com>
+Description: A package for analyzing large ChIP-seq data sets
+License: MIT
+LazyData: TRUE
+RoxygenNote: 5.0.1
